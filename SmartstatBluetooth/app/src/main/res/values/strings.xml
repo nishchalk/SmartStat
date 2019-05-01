@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Smartstat Bluetooth</string>
+    <string name="ana_method">Cyclic Voltammetry</string>
+    <string name="on">Start</string>
+    <string name="setup">Send Config</string>
+    <string name="scan_rate">Scan Rate (V/s)</string>
+    <string name="num_cycles">Number of Cycles</string>
+    <string name="eq_time">Equilibrium Time (s)</string>
+</resources>
